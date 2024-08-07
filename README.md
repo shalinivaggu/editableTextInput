@@ -10,16 +10,6 @@ The goal of this coding exam is to quickly get you off the ground with **Conditi
 <br/>
 
 
-### Design Files
-
-<details>
-<summary>Click to view</summary>
-
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Editing output](https://assets.ccbp.in/frontend/content/react-js/editable-text-input-lg-editing-output.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Saved text output](https://assets.ccbp.in/frontend/content/react-js/editable-text-input-lg-saved-text-output.png)
-
-</details>
-
 ### Set Up Instructions
 
 <details>
@@ -32,7 +22,7 @@ The goal of this coding exam is to quickly get you off the ground with **Conditi
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
 The app must have the following functionalities
@@ -49,18 +39,9 @@ The app must have the following functionalities
 
 
 
-### Important Note
 
-<details>
-<summary>Click to view</summary>
+- Used `styledComponents` for styling the elements
 
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- Use `styledComponents` for styling the elements
-
-</details>
 
 ### Resources
 
@@ -86,9 +67,3 @@ The app must have the following functionalities
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-
